@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+wandb/
+grpo_checkpoint/
+grpo_finetuned_model/
